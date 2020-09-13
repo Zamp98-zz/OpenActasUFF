@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
+<body>
+<div id="file.news.div.news" n="news" rend="primary">
+<head>BENANCIB</head>
+<p>Base de dados que reune todas as comunicações orais e pôsteres apresentados desde a primeira edição do Encontro Nacional da Associacao Nacional de Pesquisa em Ciência a Informação (ENANCIB). Produzida e mantida pelo Departamento de Ciência da Informação (GCI) da Universidade Federal Fluminense (UFF) em parceria com o Programa de Pós-Graduação em Ciência da Informação (PPGCI/UFF) e a Superintendência de Tecnologia de Informação - STI/UFF.
+
+    No momento, estamos cadastrando os trabalhos dos ENANCIB de 2017 e 2018. Para dúvidas e outras Informações, entre em contato através do email: <xref target="mailto:benancib.gci.iacs@id.uff.br">benancib.gci.iacs@id.uff.br</xref></p>
+</div>
+</body>
+<options/>
+<meta>
+<userMeta/>
+<pageMeta/>
+<repositoryMeta/>
+</meta>
+</document>
